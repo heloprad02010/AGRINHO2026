@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #FFD93D;
+  padding: 30px;
+}
+
+.container {
+  background: #fff;
+  max-width: 480px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 1.3rem;
+  margin-bottom: 20px;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 8px;
+  background: #f5f5f5;
+  border: 1px solid #ccc;
+  text-align: left;
+  cursor: pointer;
+}
+
+.correct {
+  background: #d9f2d9;
+}
+
+.wrong {
+  background: #f9dada;
+}
